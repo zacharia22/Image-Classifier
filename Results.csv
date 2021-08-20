@@ -1,0 +1,10 @@
+model,test_accuracy
+knn,0.98
+decision tree,0.9
+logistic,0.96
+random forest,0.92
+svm linear,0.82
+svm rbf,0.86
+1-layer NN,0.9600000023841858
+2-layer NN,0.9600000023841858
+CNN,0.5600000023841858
